@@ -1,0 +1,5 @@
+name = 'Jola'
+surname = 'Kot'
+telephone = '530567003'
+email = 'buziaczek@o2.pl'
+code = 'k45pm'
