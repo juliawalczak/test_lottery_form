@@ -16,7 +16,7 @@ As a lottery participant, I can register my promotional code on kinderbueno.pl/l
 <li> Promotional code </liv>
 <li>Acceptance of necessary agreements(5)</li>
 </ul>
-2. User provides and submits information.
+2. User provides and submits information.<br>
 3. New lottery participant is registered in lottery.<br>
 <b>Acceptance criteria:</b><br>
 1. Promotional code is registred only if participant provides all required information
